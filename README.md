@@ -1,4 +1,4 @@
-# node-express-auth-api
+# JWT Authentication and Authorization in Nodejs/Express & MongoDB
 simple REST API that will enable us to create a user, log in the registered user, 
 get the user profile, log out a user from a single device,
 and log out a user from multiple devices.
